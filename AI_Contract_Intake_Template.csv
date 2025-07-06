@@ -1,0 +1,6 @@
+Document Name,Contract Type,Counterparty Name,Effective Date,End Date,Auto-Renewal Clause,Jurisdiction,Contract Value,Confidentiality Clause,Indemnity Clause,Limitation of Liability Clause,Termination for Convenience,Clause Deviation,Risk Level,Recommended Reviewer,Comments
+NDA_TechCorp_June2025.pdf,NDA,TechCorp Inc,2025-06-01,2026-06-01,Yes,California,USD 10000,Yes,No,Yes,No,Yes,Medium,Legal,"Missing indemnity clause; review confidentiality duration"
+MSA_GlobalNet_May2025.pdf,MSA,GlobalNet Ltd,2025-05-15,2027-05-14,No,New York,USD 250000,Yes,Yes,Yes,Yes,No,Low,Procurement,
+SOW_ApexDev_Apr2025.pdf,SOW,Apex Development,2025-04-01,2025-12-31,No,Texas,USD 75000,Yes,Yes,No,Yes,Yes,High,Legal,"Missing limitation of liability clause; non-standard termination"
+PO_NorthSky_March2025.pdf,PO,NorthSky LLC,2025-03-10,2025-09-10,No,Illinois,USD 18000,No,No,No,No,Yes,High,Procurement,"Lacks all key clauses; review carefully"
+Licensing_ZenSoft_July2025.pdf,Licensing Agreement,ZenSoft,2025-07-01,2026-07-01,Yes,Washington,USD 120000,Yes,Yes,Yes,Yes,No,Low,Business Owner,"Standard template used"
